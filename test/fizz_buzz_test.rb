@@ -7,4 +7,4 @@ class FizzBazzTest  < Minitest::Test
         assert_equal '2', fizz_buzz(2)
         assert_equal 'Fizz', fizz_buzz(3)
     end
-end 
+end
